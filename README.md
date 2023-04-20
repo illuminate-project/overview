@@ -5,4 +5,5 @@ Illuminate is a photo relighting app for iOS and Android devices. It works by ge
 Illuminate was created as a Senior Design project at the University of Central Florida. It was nominated as a semi-finalist at the Spring 2023 showcase.
 
 Showcase Page: https://www.cecs.ucf.edu/SeniorDesignShowcase/team/illuminate-image-relighting/
+
 Presentation: https://www.youtube.com/watch?v=fnU6lIs16Ww
